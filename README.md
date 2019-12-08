@@ -11,3 +11,5 @@ and 7250 words per person. The features of the model will be generated through t
 The four labels provided as file name in the corpus includes gender, age, industry, and astrological sign of the writer.
 
 The notebook is ordered based on the process of the text pre-processing and model training.
+
+The link to course report google doc: https://docs.google.com/document/d/1eFeUiXQ9xCOtoopr5rKnIOET7HeTk84jCu2PqHC4sAE/edit?usp=sharing
