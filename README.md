@@ -1,5 +1,5 @@
 # W266-2019Fall-Writing-to-Writer
-This is the course project repo of Shangyun Lu for W266 2019 Fall
+This is the course project repo of Shangyun Lv for W266 2019 Fall
 This is a one-person group project all the way through, all the code and write-up is done by Shangyun himself.
 
 The project uses deep learning methods to see whether people with different profiles demonstrate different writing styles;
